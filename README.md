@@ -16,3 +16,5 @@ Silahkan install Extention iMacros di browser.
 | --------------------------------- | ----------- |
 | Chrome                   | [iMacros for Chrome v10.1.1](https://chrome.google.com/webstore/detail/imacros-for-chrome/cplklnmnlbnpmjogncfgfijoopmnlemp)
 | Firefox        | [iMacros for Firefox v10.1.0.1485](https://addons.mozilla.org/id/firefox/addon/imacros-for-firefox/)
+
+Untuk browser lain tinggal menyesuaikan.
