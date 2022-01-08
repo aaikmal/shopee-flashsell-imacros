@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://github.com/aaikmal/shopee-flashsell-imacros/raw/main/img/s.png" width="128" height="128"/>
+<img src="https://github.com/aaikmal/shopee-flashsell-imacros/raw/main/img/s-min.png" width="128" height="128"/>
   
 # shopee-flashsell-imacross
 
