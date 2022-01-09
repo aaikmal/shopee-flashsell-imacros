@@ -25,7 +25,8 @@ Untuk browser lain tinggal menyesuaikan.
 ```
 > WAIT SECONDS=60
 ```
-Penjelasan : Script dijalankan 1 menit sebelum jam serbu di mulai. 
-Misal serbuan di mulai jam 00:00. Nah, kita jalankan script pas di jam 23:59:00. Harus pas di detik 00 nya.
+Penjelasan : Script dijalankan 1 (60 Second) menit sebelum jam serbu di mulai.
+Misal serbuan di mulai jam 00:00. Nah, kita jalankan script pas di jam 23:59:00. Harus pas di detik 00 nya. Bisa juga diganti dengan 120 (2 Menit). Tinggal sesuaikan dengan kebutuhan.
 
-Untuk bisa melihat jam beserta detiknya bisa di lihat [Disini](https://www.timeanddate.com/worldclock/fullscreen.html?n=108#). Kemudian tinggal kecilkan jendela windows nya.
+Untuk bisa melihat jam beserta detiknya bisa di lihat [Disini](https://www.timeanddate.com/worldclock/indonesia/jakarta). Kemudian tinggal Popup Window. Hingga muncul seperti ini:
+<img src="https://github.com/aaikmal/shopee-flashsell-imacros/raw/main/img/s-min.png"
