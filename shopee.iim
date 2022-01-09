@@ -9,10 +9,9 @@ TAG POS=1 TYPE=BUTTON ATTR=TXT:Beli<SP>sekarang
 TAG POS=1 TYPE=BUTTON ATTR=TXT:Checkout
 WAIT SECONDS=2
 URL GOTO=javascript:document.body.style.zoom="50%"
-TAG POS=1 TYPE=BUTTON ATTR=TXT:Transfer<SP>Bank
-TAG POS=1 TYPE=DIV ATTR=TXT:Bank<SP>BNI<SP>(Dicek<SP>Otomatis)
+TAG POS=1 TYPE=BUTTON ATTR=TXT:Shopeepay
+'TAG POS=1 TYPE=DIV ATTR=TXT:Bank<SP>BNI<SP>(Dicek<SP>Otomatis)
 WAIT SECONDS=1
-TAG POS=1 TYPE=SPAN ATTR=TXT:Lanjutkan<SP>Pembayaran
-'URL GOTO=javascript:window.scrollBy(0,0.88*window.innerHeight)
+'TAG POS=1 TYPE=SPAN ATTR=TXT:Lanjutkan<SP>Pembayaran
 WAIT SECONDS=2
 TAG POS=1 TYPE=BUTTON ATTR=TXT:Buat<SP>Pesanan
