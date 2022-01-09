@@ -18,3 +18,14 @@ Silahkan install Extention iMacros di browser.
 | Firefox        | [iMacros for Firefox v10.1.0.1485](https://addons.mozilla.org/id/firefox/addon/imacros-for-firefox/)
 
 Untuk browser lain tinggal menyesuaikan.
+
+## Penjelasan Scrit
+
+- Line 3
+```
+> WAIT SECONDS=60
+```
+Penjelasan : Script dijalankan 1 menit sebelum jam serbu di mulai. 
+Misal serbuan di mulai jam 00:00. Nah, kita jalankan script pas di jam 23:59:00. Harus pas di detik 00 nya.
+
+Untuk bisa melihat jam beserta detiknya bisa di lihat [Disini](https://www.timeanddate.com/worldclock/fullscreen.html?n=108#). Kemudian tinggal kecilkan jendela windows nya.
