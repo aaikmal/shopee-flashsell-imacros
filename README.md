@@ -28,7 +28,7 @@ Untuk browser lain tinggal menyesuaikan.
 Penjelasan : Script dijalankan 1 (60 Second) menit sebelum jam serbu di mulai.
 Misal serbuan di mulai jam 00:00. Nah, kita jalankan script pas di jam 23:59:00. Harus pas di detik 00 nya. Bisa juga diganti dengan 120 (2 Menit). Tinggal sesuaikan dengan kebutuhan.
 
-Untuk bisa melihat jam beserta detiknya bisa di lihat [Disini](https://www.timeanddate.com/worldclock/indonesia/jakarta). Kemudian tinggal klik "Full Screen, Kemudian klik ""Popup Window". Hingga muncul seperti ini:
+Untuk bisa melihat jam beserta detiknya bisa di lihat [Disini](https://www.timeanddate.com/worldclock/indonesia/jakarta). Kemudian tinggal klik "Full Screen, Kemudian klik "Popup Window". Hingga muncul seperti ini:
 <div align="center">
 <img src="https://github.com/aaikmal/shopee-flashsell-imacros/raw/main/img/popup.png" width="400" height="300"/>
 </div>
