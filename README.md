@@ -52,3 +52,4 @@ Sebagai contoh kita menggunakan BNI VA, di bagian line 12. Tetapi line tersebut 
 <div align="center">
 <img src="https://github.com/aaikmal/shopee-flashsell-imacros/raw/main/img/spay.png"
 </div>
+
