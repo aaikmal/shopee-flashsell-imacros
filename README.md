@@ -19,7 +19,7 @@ Silahkan install Extention iMacros di browser.
 
 Untuk browser lain tinggal menyesuaikan.
 
-## Penjelasan Scrit
+## Penjelasan Script
 
 - Line 3
 ```
