@@ -25,8 +25,8 @@ Untuk browser lain tinggal menyesuaikan.
 ```
 > WAIT SECONDS=60
 ```
-Penjelasan : Script dijalankan 1 (60 Second) menit sebelum jam serbu di mulai.
-Misal serbuan di mulai jam 00:00. Nah, kita jalankan script pas di jam 23:59:00. Harus pas di detik 00 nya. Bisa juga diganti dengan 120 (2 Menit). Tinggal sesuaikan dengan kebutuhan.
+Penjelasan : Script dijalankan 1 menit (60 Second) sebelum jam serbu di mulai.
+Misal serbuan di mulai jam 00:00. Nah, kita jalankan script pas di jam 23:59:00. Harus pas di detik 00 nya. Bisa juga diganti dengan 120 secod (2 Menit). Tinggal sesuaikan dengan kebutuhan.
 
 Untuk bisa melihat jam beserta detiknya bisa di lihat [Disini](https://www.timeanddate.com/worldclock/indonesia/jakarta). Kemudian tinggal klik "Full Screen, Kemudian klik "Popup Window". Hingga muncul seperti ini:
 <div align="center">
